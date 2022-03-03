@@ -1,12 +1,12 @@
 Pokemon Black Market
 =========
-
+By: Olga Perron, [Rosemary Ku](https://github.com/rosemaryku) & [Jaeyoung Kim](https://github.com/jaeykimmy)
 ## Midterm Project
 
 This project was completed in a team of three, working remotely and connecting via daily standups. This forked version of our final team effort focuses on my contributions. For the full project please checkout (Pokemon Black Market)[https://github.com/rosemaryku/buy-sell-store-LHL]<br>
 
-My portion of this project focused on creating a dynamic home page with a filter function and search field. To create the styling I used a combination of bootstrap and my own CSS. We created a database using a googlesheet inorder to keep our data flxible, and seeded the database using this (file)[https://docs.google.com/spreadsheets/d/1Dl3u8Ljn4a8ZBeZEEJRMHPoSNVud7nUuDf5Bl6fWgss/edit?usp=sharing].
-To keep our database organized and determine connections we created the (ERD)[https://drive.google.com/file/d/1PbDLUP3zLS19-jghNx1EasgC2OkrHiKr/view?usp=sharing] and adjusted it as the database developed.
+My portion of this project focused on creating a dynamic home page with a filter function and search field. To create the styling I used a combination of bootstrap and my own CSS. We created a database using a googlesheet inorder to keep our data flxible, and seeded the database using this [file](https://docs.google.com/spreadsheets/d/1Dl3u8Ljn4a8ZBeZEEJRMHPoSNVud7nUuDf5Bl6fWgss/edit?usp=sharing).
+To keep our database organized and determine connections we created the [ERD](https://drive.google.com/file/d/1PbDLUP3zLS19-jghNx1EasgC2OkrHiKr/view?usp=sharing) and adjusted it as the database developed.
 
 ## Front Page functionality
 
@@ -16,7 +16,7 @@ The user can search by Pokemon name or partial and be redirected to a page conta
 Each Pokemon card connects the user to the full details of the pokemon, and unlocks additional functionality like favourite and message. <br>
 The footer is present at the bottem of the page and will take you back to the top of the page or to the github of our team mebers.
 
-!(Gif of PokemonBlack Market Front Page)[https://raw.githubusercontent.com/0lgaP/buy-sell-store-LHL/master/public/gif/pbm2.gif]
+![Gif of PokemonBlack Market Front Page](https://raw.githubusercontent.com/0lgaP/buy-sell-store-LHL/master/public/gif/pbm2.gif)
 ## Getting Started
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
