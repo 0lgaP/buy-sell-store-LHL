@@ -1,16 +1,20 @@
-LHL Node Skeleton
+Pokemon Black Market
 =========
 
-## Project Setup
+## Midterm Project
 
-The following steps are only for _one_ of the group members to perform.
+This project was completed in a team of three, working remotely and connecting via daily standups. This forked version of our final team effort focuses on my contributions. For the full project please checkout (Pokemon Black Market)[https://github.com/rosemaryku/buy-sell-store-LHL]<br>
 
-1. Create your own copy of this repo using the `Use This Template` button, ideally using the name of your project. The repo should be marked Public
-2. Verify that the skeleton code now shows up in your repo on GitHub, you should be automatically redirected
-3. Clone your copy of the repo to your dev machine
-4. Add your team members as collaborators to the project so that they can push to this repo
-5. Let your team members know the repo URL so that they use the same repo (they should _not_ create a copy/fork of this repo since that will add additional workflow complexity to the project)
+My portion of this project focused on creating a dynamic home page with a filter function and search field. To create the styling I used a combination of bootstrap and my own CSS. We created a database using a googlesheet inorder to keep our data flxible, and seeded the database using this (file)[https://docs.google.com/spreadsheets/d/1Dl3u8Ljn4a8ZBeZEEJRMHPoSNVud7nUuDf5Bl6fWgss/edit?usp=sharing].
+To keep our database organized and determine connections we created the (ERD)[https://drive.google.com/file/d/1PbDLUP3zLS19-jghNx1EasgC2OkrHiKr/view?usp=sharing] and adjusted it as the database developed.
 
+## Front Page functionality
+
+When you land on the Pokemon Black Market Homepage you are greeted by a plethera of colourful images and a dynamic attention grabbing carousel created through EJS & Bootstrap. <br>
+The user can filter by preference values available in the dropdown, the default state is "Newest First". As the filter is selected, the carousel adjusts it's image order to accomodate the filter preference. <br>
+The user can search by Pokemon name or partial and be redirected to a page containing only the search results. <br>
+Each Pokemon card connects the user to the full details of the pokemon, and unlocks additional functionality like favourite and message. <br>
+The footer is present at the bottem of the page and will take you back to the top of the page or to the github of our team mebers.
 
 ## Getting Started
 
@@ -38,6 +42,17 @@ The following steps are only for _one_ of the group members to perform.
 
 ## Dependencies
 
-- Node 10.x or above
-- NPM 5.x or above
-- PG 6.x
+```sh
+    "bootstrap": "^5.1.3",
+    "chalk": "^2.4.2",
+    "cookie-session": "^2.0.0",
+    "dotenv": "^2.0.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.1",
+    "morgan": "^1.9.1",
+    "pg": "^8.5.0",
+    "sass": "^1.35.1"
+```
