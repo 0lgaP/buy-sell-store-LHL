@@ -16,6 +16,7 @@ The user can search by Pokemon name or partial and be redirected to a page conta
 Each Pokemon card connects the user to the full details of the pokemon, and unlocks additional functionality like favourite and message. <br>
 The footer is present at the bottem of the page and will take you back to the top of the page or to the github of our team mebers.
 
+!(Gif of PokemonBlack Market Front Page)[https://raw.githubusercontent.com/0lgaP/buy-sell-store-LHL/master/public/gif/pbm2.gif]
 ## Getting Started
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
@@ -27,9 +28,9 @@ The footer is present at the bottem of the page and will take you back to the to
 4. Fix to binaries for sass: `npm rebuild node-sass`
 5. Reset database: `npm run db:reset`
   - Check the db folder to see what gets created and seeded in the SDB
-7. Run the server: `npm run local`
+7. Run the server: `npm start`
   - Note: nodemon is used, so you should not have to restart your server
-8. Visit `http://localhost:8080/`
+8. Visit `http://localhost:8080/home`
 
 ## Warnings & Tips
 
