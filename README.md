@@ -3,7 +3,7 @@ Pokemon Black Market
 By: Olga Perron, [Rosemary Ku](https://github.com/rosemaryku) & [Jaeyoung Kim](https://github.com/jaeykimmy)
 ## Midterm Project
 
-This project was completed in a team of three, working remotely and connecting via daily standups. This forked version of our final team effort focuses on my contributions. For the full project please checkout (Pokemon Black Market)[https://github.com/rosemaryku/buy-sell-store-LHL]<br>
+This project was completed in a team of three, working remotely and connecting via daily standups. This forked version of our final team effort focuses on my contributions. For the full project please checkout [Pokemon Black Market](https://github.com/rosemaryku/buy-sell-store-LHL)<br>
 
 My portion of this project focused on creating a dynamic home page with a filter function and search field. To create the styling I used a combination of bootstrap and my own CSS. We created a database using a googlesheet inorder to keep our data flxible, and seeded the database using this [file](https://docs.google.com/spreadsheets/d/1Dl3u8Ljn4a8ZBeZEEJRMHPoSNVud7nUuDf5Bl6fWgss/edit?usp=sharing).
 To keep our database organized and determine connections we created the [ERD](https://drive.google.com/file/d/1PbDLUP3zLS19-jghNx1EasgC2OkrHiKr/view?usp=sharing) and adjusted it as the database developed.
