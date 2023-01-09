@@ -1,6 +1,8 @@
 Pokemon Black Market
 =========
 By: Olga Perron, [Rosemary Ku](https://github.com/rosemaryku) & [Jaeyoung Kim](https://github.com/jaeykimmy)
+![pbm2](https://user-images.githubusercontent.com/61428425/211402321-8a208768-61f4-4929-ac89-1b8d5e33eea3.gif)
+
 ## Midterm Project
 
 This project was completed in a team of three, working remotely and connecting via daily standups. This forked version of our final team effort focuses on my contributions. For the full project please checkout [Pokemon Black Market](https://github.com/rosemaryku/buy-sell-store-LHL)<br>
