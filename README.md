@@ -1,6 +1,7 @@
 Pokemon Black Market
 =========
 By: Olga Perron, [Rosemary Ku](https://github.com/rosemaryku) & [Jaeyoung Kim](https://github.com/jaeykimmy)
+
 ![pbm2](https://user-images.githubusercontent.com/61428425/211402321-8a208768-61f4-4929-ac89-1b8d5e33eea3.gif)
 
 ## Midterm Project
